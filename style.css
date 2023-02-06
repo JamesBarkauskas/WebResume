@@ -20,3 +20,66 @@ header p {
 .email {
     padding-right: 30px;
 }
+
+.quals {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.techQuals {
+    font-style: italic;
+}
+
+.qualDesc {
+    padding-left: 50px;
+}
+
+.education {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.major {
+    font-weight: bold;
+    padding-top: 10px; 
+    padding-left: 40px;
+}
+
+.school {
+    padding-left: 40px;
+}
+
+.grad {
+    padding-left: 40px;
+}
+
+.experience {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.awards {
+    padding: 20px 20px;
+}
+
+.deansList {
+    padding-left: 40px;
+}
+
+.title {
+    font-weight: bold;
+    padding-left: 40px;
+}
+
+.jobLength {
+    padding-left: 40px;
+}
+
+.jobDesc {
+    padding-left: 40px;
+}
+
+.pdf {
+    float: right;
+    padding-right: 10px;
+}
