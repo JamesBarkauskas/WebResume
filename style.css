@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding-top: 40px;
+}
+
+header p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.number {
+    padding-right: 30px;
+}
+
+.email {
+    padding-right: 30px;
+}
